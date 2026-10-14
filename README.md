@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Rashifa07/Leetcode/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/Rashifa07/Leetcode/tree/master/0231-power-of-two) |
 ## Algorithm X
 |  |
 | ------- |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rashifa07/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Rashifa07/Leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Rashifa07/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
