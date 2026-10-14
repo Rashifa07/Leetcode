@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Rashifa07/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rashifa07/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rashifa07/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rashifa07/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rashifa07/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
@@ -23,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Rashifa07/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rashifa07/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rashifa07/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rashifa07/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rashifa07/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Array
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Rashifa07/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Rashifa07/Leetcode/tree/master/0078-subsets) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rashifa07/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
@@ -68,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rashifa07/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rashifa07/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rashifa07/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rashifa07/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
