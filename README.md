@@ -29,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Rashifa07/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Rashifa07/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Rashifa07/Leetcode/tree/master/0078-subsets) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rashifa07/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Rashifa07/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Rashifa07/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Rashifa07/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Rashifa07/Leetcode/tree/master/0077-combinations) |
