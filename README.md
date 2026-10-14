@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Rashifa07/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Rashifa07/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Rashifa07/Leetcode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Rashifa07/Leetcode/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rashifa07/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0322-coin-change](https://github.com/Rashifa07/Leetcode/tree/master/0322-coin-change) |
 ## Backtracking
@@ -42,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Rashifa07/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Rashifa07/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Rashifa07/Leetcode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Rashifa07/Leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Rashifa07/Leetcode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Rashifa07/Leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Rashifa07/Leetcode/tree/master/0231-power-of-two) |
 ## Algorithm X
 |  |
