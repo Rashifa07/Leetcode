@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Rashifa07/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Rashifa07/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Rashifa07/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Rashifa07/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rashifa07/Leetcode/tree/master/0090-subsets-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Rashifa07/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Rashifa07/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Rashifa07/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Rashifa07/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Rashifa07/Leetcode/tree/master/0077-combinations) |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Rashifa07/Leetcode/tree/master/0322-coin-change) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Rashifa07/Leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
