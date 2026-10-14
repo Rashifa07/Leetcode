@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Rashifa07/Leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Rashifa07/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Rashifa07/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Rashifa07/Leetcode/tree/master/0078-subsets) |
 ## Bit Manipulation
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Rashifa07/Leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Rashifa07/Leetcode/tree/master/0052-n-queens-ii) |
 ## Stack
 |  |
 | ------- |
