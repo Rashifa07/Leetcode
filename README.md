@@ -20,14 +20,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Rashifa07/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Rashifa07/Leetcode/tree/master/0078-subsets) |
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Rashifa07/Leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Rashifa07/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Rashifa07/Leetcode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Rashifa07/Leetcode/tree/master/0078-subsets) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Rashifa07/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
