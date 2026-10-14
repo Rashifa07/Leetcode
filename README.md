@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Rashifa07/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rashifa07/Leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Rashifa07/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Rashifa07/Leetcode/tree/master/0342-power-of-four) |
 ## Algorithm X
 |  |
 | ------- |
@@ -69,12 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Rashifa07/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Rashifa07/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Rashifa07/Leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Rashifa07/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Rashifa07/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Rashifa07/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Rashifa07/Leetcode/tree/master/0342-power-of-four) |
 ## Linked List
 |  |
 | ------- |
