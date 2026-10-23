@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rashifa07/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rashifa07/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0322-coin-change](https://github.com/Rashifa07/Leetcode/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/Rashifa07/Leetcode/tree/master/0518-coin-change-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -107,14 +108,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Rashifa07/Leetcode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Rashifa07/Leetcode/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/Rashifa07/Leetcode/tree/master/0518-coin-change-ii) |
 ## Knapsack Problem
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Rashifa07/Leetcode/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/Rashifa07/Leetcode/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Rashifa07/Leetcode/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/Rashifa07/Leetcode/tree/master/0518-coin-change-ii) |
 ## Sorting
 |  |
 | ------- |
